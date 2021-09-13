@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"obj_nose","path":"objects/obj_nose/obj_nose.yy",},"order":0,},
     {"id":{"name":"spr_nose","path":"sprites/spr_nose/spr_nose.yy",},"order":1,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":0,},
     {"id":{"name":"rm_puzzle","path":"rooms/rm_puzzle/rm_puzzle.yy",},"order":0,},
