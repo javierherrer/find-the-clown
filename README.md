@@ -1,6 +1,6 @@
 #	Project	1
  
-##	Game: Find The Clown
+##	Game: Find The Clowns
 *	David Ortiz Perez (6194333)
 *	Javier Herrer Torres (6193507)
 
